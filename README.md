@@ -1,4 +1,4 @@
 # Tasks
-# Name = mohamed emad hamdy mohamed
+# Name = Mohamed Emad Hamdy Mohamed
 # Department = CS
 # serial_number = 98
